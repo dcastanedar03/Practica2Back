@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net --watch main.ts"
+  },
+  "imports": {
+    "mongoose": "npm:mongoose@8.0.1"
+  }
+}
